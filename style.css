@@ -1,0 +1,16 @@
+header{
+    background-color: aqua;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    align-content: center;
+    z-index: -1;
+}
+
+h2{
+    color: rgb(201, 101, 8);
+    margin-left: 42%;
+}
+
+.h2:hover{
+    animation: text-pop 0.5s ease-in-out;
+}
